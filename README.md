@@ -1,0 +1,2 @@
+# AnimatedSliderDesignPaises
+Animação de paises
